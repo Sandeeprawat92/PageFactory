@@ -63,7 +63,6 @@ public class CustomListeners extends Page implements ITestListener, ISuiteListen
 		 * Auto-generated catch block e.printStackTrace(); }
 		 */
 
-		rep.flush();
 	}
 
 	public void onStart(ISuite arg0) {
